@@ -332,7 +332,3 @@ Deleted environment "env-o7mj39".
 | Tableflow e Iceberg | extensão |
 | IA sobre dados em movimento | não implementado |
 | Observabilidade, segurança, custos, multi-region | camada 5 (multi-region/DR só discutido na tabela de confiabilidade) |
-
-## Autora
-
-Caroline Zolet, desenvolvido como parte do bootcamp IBM Confluent (DIO), 2026.
